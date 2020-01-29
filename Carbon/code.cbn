@@ -1,3 +1,5 @@
-This is Hammad
-This is Raza
-This is Khan
+void main(void){
+    text = "I am a newbie language"
+    print(text)
+    return text
+}
